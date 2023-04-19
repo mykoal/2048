@@ -2,9 +2,7 @@
 2048 project from CIS1200. First independent Javascript project. 
 Warning: I do not condone cheating off my code.
 
-===================
-=: Core Concepts :=
-===================
+Core Concepts:
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
@@ -53,9 +51,7 @@ Warning: I do not condone cheating off my code.
      the board, but wouldn't end the game. Some other general test cases are written though
      for a grand total of 16 cases.
 
-=========================
-=: Your Implementation :=
-=========================
+My Implementation:
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
@@ -100,10 +96,7 @@ Warning: I do not condone cheating off my code.
   "null" tiles and having to work between "null" and 0 interchangeably would be nice.
 
 
-
-========================
-=: External Resources :=
-========================
+External Resources:
 
 - Cite any external resources (images, tutorials, etc.) that you may have used 
   while implementing your game.
