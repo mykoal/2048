@@ -1,5 +1,6 @@
-# 2048
-2048 project from CIS1200. First independent Java project. 
+# 2048 (CIS 1200)
+Exploring Java :)
+
 Warning: I do not condone cheating off my code.
 
 Core Concepts:
